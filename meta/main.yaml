@@ -1,0 +1,14 @@
+---
+
+dependencies: []
+
+galaxy_info:
+    role_name: sg-docker
+    author: Stefan Genov
+    description: Installs Docker
+    platforms:
+        - name: Ubuntu
+          versions:
+              - 20.04
+              - 18.04
+              - 16.04
