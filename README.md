@@ -2,10 +2,6 @@ A simple ansible role that installs the latest version of Docker.
 
 This package closely follows the guide at: https://docs.docker.com/engine/install/ubuntu/
 
-# Supported OS
-
-### - Ubuntu 20.04 LTS
-
 # Supported variables
 
 ~~~
