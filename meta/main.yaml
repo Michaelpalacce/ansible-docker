@@ -3,10 +3,10 @@
 dependencies: []
 
 galaxy_info:
-    role_name: michaelpalacce.sg_docker
+    role_name: docker
+    author: stefangenov
     licence: MIT
     min_ansible_version: 2.9
-    author: Stefan Genov
     description: Installs Docker
     platforms:
         - name: Ubuntu
